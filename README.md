@@ -11,7 +11,7 @@
   <p>
     <img src="https://img.shields.io/badge/Author-Ritusan-orange" alt="Author" />
     <img src="https://img.shields.io/github/last-commit/Ritusan/color-library" alt="last-commit" />
-    <img src="https://img.shields.io/badge/-colorful-%23e66563" alt="colorful" />
+    <img src="https://img.shields.io/badge/-colorful-%23e66563" alt="Beta Features" />
   </p>
   
   <p>:heart: 颜色图书馆 - :+1: 常用的色彩搭配</p>
